@@ -1,6 +1,6 @@
 # 🖥️ Video-to-ASCII
 
-A minimal Python project that plays the viral **Aura Farming** dance video — or any 1:1 (square) video - as animated ASCII art in your terminal. It reads each video frame, converts it to grayscale, maps pixel brightness to ASCII characters, and prints the result in real time, creating a live text-based animation with no GUI required.
+A minimal Python project that plays the viral **Aura Farming** dance video - or any 1:1 (square) video - as animated ASCII art in your terminal. It reads each video frame, converts it to grayscale, maps pixel brightness to ASCII characters, and prints the result in real time, creating a live text-based animation with no GUI required.
 
 ---
 
@@ -9,7 +9,7 @@ A minimal Python project that plays the viral **Aura Farming** dance video — o
 ### 1. Clone this Repo
 
 ```bash
-git clone https://github.com/httpsvarad/terminal-ascii-video-player.git
+git clone https://github.com/httpsvarad/video-to-ascii.git
 ````
 
 ### 2. Install Dependencies
