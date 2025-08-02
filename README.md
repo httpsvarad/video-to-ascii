@@ -30,7 +30,7 @@ python play_ascii_video.py
 
 ---
 
-## 🧠 Tips for Best Experience
+## 🎯 Tips for Best Experience
 
 * **Zoom Out** your terminal (`Ctrl + -`) to fit more ASCII characters.
 * **Use Fullscreen Terminal** for smooth animation.
@@ -63,6 +63,7 @@ File: `requirements.txt`
 
 ```txt
 opencv-python
+numpy
 ```
 
 Install with:
@@ -70,12 +71,6 @@ Install with:
 ```bash
 pip install -r requirements.txt
 ```
-
----
-
-## 📄 License
-
-MIT
 
 ---
 
